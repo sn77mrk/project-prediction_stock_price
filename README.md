@@ -14,5 +14,14 @@ This project involves the development and training of an LSTM model to predict s
 ### Prerequisites
 Ensure you have Python 3.7+ installed. Then, install the required libraries using the `requirements.txt` file.
 
-```bash
+### Clone the repository:
+git clone https://github.com/sn77mrk/project-prediction_stock_price.git
+### Install the dependencies:
 pip install -r requirements.txt
+### Run the Jupyter Notebook:
+jupyter notebook final.ipynb
+
+
+
+```bash
+
