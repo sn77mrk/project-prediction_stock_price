@@ -22,7 +22,10 @@ pip install -r requirements.txt
 jupyter notebook final.ipynb
 ### Change the path to files on your device
 msft_file_path = '/YOUR_PATH_HERE/MSFT.csv'
+
 gujgas_file_path = '/YOUR_PATH_HERE/GUJGASLTD.NS.csv'
+
 reliance_file_path = '/YOUR_PATH_HERE/RELIANCE.NS.csv'
+
 fourth_file_path = '/YOUR_PATH_HERE/ADANIGREEN.NS.csv'
 ```bash
